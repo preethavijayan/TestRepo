@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="commons-logging-1.1.jar"/>
+	<classpathentry kind="lib" path="cxf-2.0.1-incubator.jar"/>
+	<classpathentry kind="lib" path="geronimo-activation-2.0.1.jar"/>
+	<classpathentry kind="lib" path="geronimo-annotation_1.0_spec-1.1.jar"/>
+	<classpathentry kind="lib" path="geronimo-javamail_1.4_mail-1.2.jar"/>
+	<classpathentry kind="lib" path="geronimo-servlet_2.5_spec-1.1.jar"/>
+	<classpathentry kind="lib" path="geronimo-ws-metadata_2.0_spec-1.1.1.jar"/>
+	<classpathentry kind="lib" path="jaxb-api-2.0.jar"/>
+	<classpathentry kind="lib" path="jaxb-impl-2.0.5.jar"/>
+	<classpathentry kind="lib" path="jaxws-api-2.0EA3.jar"/>
+	<classpathentry kind="lib" path="neethi-2.0.jar"/>
+	<classpathentry kind="lib" path="saaj-api.jar"/>
+	<classpathentry kind="lib" path="saaj-impl.jar"/>
+	<classpathentry kind="lib" path="spring-beans-2.0.7.jar"/>
+	<classpathentry kind="lib" path="spring-context-2.0.7.jar"/>
+	<classpathentry kind="lib" path="spring-core-2.5.jar"/>
+	<classpathentry kind="lib" path="spring-web-2.0.7.jar"/>
+	<classpathentry kind="lib" path="stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="wsdl4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="wstx-asl-3.2.1.jar"/>
+	<classpathentry kind="lib" path="xml-resolver-1.2.jar"/>
+	<classpathentry kind="lib" path="XmlSchema-1.2.jar"/>
+	<classpathentry kind="lib" path="spring.jar"/>
+	<classpathentry kind="lib" path="activation.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
